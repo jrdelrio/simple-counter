@@ -1,12 +1,34 @@
+.wrapper {
+    background-color: black;
+    height: 100vw;
+}
 
-/* 
+.full-clock {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.digit {
+    display: inline;
+    color: #48e400;
+    font-size: 100px;
+    margin-right: 10px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
 
-*/
+.icon {
+    display: inline;
+    color: #48e400;
+    margin-right: 10px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+}
+
+.material-symbols-outlined{
+    font-size: 100px;
+}
