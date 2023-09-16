@@ -24,7 +24,7 @@ To get started and run Pong Game on your local machine, follow these simple step
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/jrdelrio/simple-counter
+$ git clone https://github.com/jrdelrio/simple-counter.git
 
 # Navigate to the project directory
 $ cd simple-counter
