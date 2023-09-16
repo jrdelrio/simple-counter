@@ -1,6 +1,10 @@
 
 # ⏱️ React Counter
 
+<div>
+<img src="image.png"/>
+</div>
+
 ## Project Overview
 
 Welcome to the React Counter project! This project is a simple exercise that I completed during my studies while learning React in [4Geeks Academy](https://4geeks.com/). It serves as a basic demonstration of how React components work together to create a functional user interface.
