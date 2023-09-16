@@ -11,7 +11,7 @@ Welcome to the React Counter project! This project is a simple exercise that I c
 
 ## About the Project
 
-The React Counter is exactly what it sounds like—a digital counter that can only be incremented and reseted to its initial value. It's a minimalistic yet effective way to explore the fundamental concepts of React.
+The React Counter is exactly what it sounds like—a digital counter that can only be incremented and reseted to its initial value. It's a minimalistic yet effective way to explore the fundamental concepts of React with a futuristic style using the Matrix colors.
 
 ## 🔧 Requirements
 Before diving into the game, ensure you have the following prerequisites installed:
