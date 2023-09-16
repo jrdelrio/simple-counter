@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+.wrapper {
+  height: 100vw;
+}
+
+.full-clock {
+  text-align: center;
+  margin-top: 20vw;
+}
+
+.digit {
+  display: inline;
+  color: #48e400;
+  font-size: 100px;
+  margin-right: 10px;
+  margin-top: 30px;
+  width: 200px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.icon {
+  display: inline;
+  color: #48e400;
+  margin-right: 10px;
+  margin-top: 30px;
+  width: 200px;
+  text-align: center;
+}
+
+.material-symbols-outlined{
+  font-size: 100px;
+}
